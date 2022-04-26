@@ -34,7 +34,7 @@
         </nav>
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
-            <body background="image/king.jpg">
+            <body background="image/bground.png">
             <div class="container px-4 text-center">
                 <img src="image/logo.jpg" width="95" height="95" </img>
                 <h1 class="fw-bolder">Welcome to Grand Plaka</h1>
@@ -50,11 +50,11 @@
                         <h1 class="text-primary">SONG LIST</h1>
                         <br/>
                         <div class="py-7 px-9">
-                        <li><h7 class='fw-bolder'>Song 1 - "Valhalla Calling"</h7><i> - Miracle of Sound</i></li><br>
-                        <li><h7 class='fw-bolder'>Song 2 - "Legends are Made"</h7><i> - Sam Tinnesz</i></li><br>
-                        <li><h7 class='fw-bolder'>Song 3 - "Warriors"        </h7><i> - Imagine Dragons</i></li><br>
-                        <li><h7 class='fw-bolder'>Song 4 - "Check the Stats"</h7><i> - Axaero</i></li><br>
-                        <li><h7 class='fw-bolder'>Song 1 - "Take me to Church"</h7><i> - Hozier</i></li><br>
+                        <li><h4 class='fw-bolder'>Song 1 - "Valhalla Calling"</h7><i> - Miracle of Sound</i></li><br>
+                        <li><h4 class='fw-bolder'>Song 2 - "Legends are Made"</h7><i> - Sam Tinnesz</i></li><br>
+                        <li><h4 class='fw-bolder'>Song 3 - "Warriors"        </h7><i> - Imagine Dragons</i></li><br>
+                        <li><h4 class='fw-bolder'>Song 4 - "Check the Stats"</h7><i> - Axaero</i></li><br>
+                        <li><h4 class='fw-bolder'>Song 1 - "Take me to Church"</h7><i> - Hozier</i></li><br>
                         </div>
                     </div>
                 </div>
